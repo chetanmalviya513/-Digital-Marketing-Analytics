@@ -1,4 +1,5 @@
 📊 The Power of Data Analytics: The Success Story of YouTube Channel 📈
+
 Case Study: How Data-Driven Strategy Grew a Spiritual YouTube Channel by 3X
 
 Welcome to a detailed case study that showcases the successful transformation of a niche YouTube channel, Untold Krishna Katha, based in Vrindavan. Using the power of data analytics, the channel achieved 3x revenue, 2x engagement, and significant audience growth — all by leveraging insights from YouTube Analytics, SWOT analysis, and smart digital strategies.
