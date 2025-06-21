@@ -10,6 +10,7 @@ Welcome to a detailed case study that showcases the successful transformation of
 Growing a spirituality-themed channel on YouTube is not easy. In July 2024, I took up the challenge during my Data Analyst internship. Using my MBA in Business Analytics background and real-world data expertise, I analyzed the channel’s YouTube Analytics data and developed a strategy that led to measurable success.
 
 ✅ Achievements:
+
 📈 3x increase in revenue & new viewers
 
 👥 2x increase in subscribers & views
